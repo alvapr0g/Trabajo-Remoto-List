@@ -7,6 +7,7 @@
 ## Referencias
 ### Las mejores referencias sobre trabajo remoto
 * Trabajo remoto "Top 17 Sitios": [Website](https://blog.desafiolatam.com/trabajos-remotos-top-17-sitios-para-encontrarlos/)
+* Trabajo remoto La Pieza Bootcamp": [Website](https://academy.lapieza.io/)
 
 ## Trabajo Remoto
 ### Las mejores páginas para buscar pega
