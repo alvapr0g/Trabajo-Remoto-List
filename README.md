@@ -28,3 +28,8 @@
 * Workew: [Website](https://workew.com/)
 * La Pieza: [Website](https://lapieza.io/)
 * Brazo derecho: [Website](https://brazoderecho.com/) 
+
+## Trabajo Freelance
+### Las mejores páginas para ofrecer trabajo freelance
+* Workana: [Website](https://www.workana.com/)
+* Fiverr: [Website](https://www.fiverr.com/?source=top_nav)
